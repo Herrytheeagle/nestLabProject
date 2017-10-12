@@ -150,8 +150,8 @@ int main()
     int res = minimax(0, 0, true, scores, h);
     int res1 = minimax(0, 0, false, scores, h);
 
-    cout << "The res value is : " << res << endl;
-    cout << "The res1 value is : " << res1 << endl;
+    cout << "The miniMax value is : " << res << endl;
+    cout << "The maxMini value is : " << res1 << endl;
 
     return 0;
 }
