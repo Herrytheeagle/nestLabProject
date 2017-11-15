@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1440501819 source:c:\users\heritage\desktop\web\night1\main.cpp
+	<iostream>
+	<string>
+	"include/geometry.h"
+
+1440501738 c:\users\heritage\desktop\web\night1\include\geometry.h
+	<iostream>
+	<string>
+
+1440502076 source:c:\users\heritage\desktop\web\night1\src\geometry.cpp
+	<iostream>
+	<string>
+	"../include/geometry.h"
+
